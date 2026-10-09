@@ -19,8 +19,8 @@ Seguiment de la revisió de les 62 pistes (`data/<id>-p.pdf`). Font de cada pist
 | G1 | `geo-24s-q6` | 2024 setembre S3 Q6 | A | ? | pendent |  |
 | G1 | `geo-25j-q4b` | 2025 juny S1 Ex 4B | A | ? | pendent | 🔴 a) $\vec n=(1,0\,1)$ hauria de ser $(1,1,0)$; sobra un parèntesi a `z-2))`; «anem a obtenir» |
 | G1 | `geo-25s-q4b` | 2025 setembre S3 Ex 4B | A | ? | pendent |  |
-| G1 | `geo-26j-q4b` | 2026 juny S1 Ex 4B | B | ? | pendent |  |
-| G1 | `geo-26j2-q4b` | 2026 juny S5 Ex 4B | B | ? | pendent |  |
+| G1 | `geo-26j-q4b` | 2026 juny S1 Ex 4B | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
+| G1 | `geo-26j2-q4b` | 2026 juny S5 Ex 4B | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
 
 ## Àlgebra (15)
 
@@ -39,8 +39,8 @@ Seguiment de la revisió de les 62 pistes (`data/<id>-p.pdf`). Font de cada pist
 | A2 | `alg-25i-q4b` | 2025 juny inc. S4 Ex 4B | A | ? | pendent |  |
 | A2 | `alg-25j-q2` | 2025 juny S1 Ex 2 | A | ? | pendent |  |
 | A2 | `alg-25s-q2` | 2025 setembre S3 Ex 2 | A | ? | pendent |  |
-| A2 | `alg-26j-q2` | 2026 juny S1 Ex 2 | B | ? | pendent |  |
-| A2 | `alg-26j2-q2` | 2026 juny S5 Ex 2 | B | ? | pendent |  |
+| A2 | `alg-26j-q2` | 2026 juny S1 Ex 2 | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
+| A2 | `alg-26j2-q2` | 2026 juny S5 Ex 2 | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
 
 ## Anàlisi (29)
 
@@ -71,10 +71,10 @@ Seguiment de la revisió de les 62 pistes (`data/<id>-p.pdf`). Font de cada pist
 | N4 | `ana-25s-q1` | 2025 setembre S3 Ex 1 | A | ? | pendent |  |
 | N4 | `ana-25s-q3c` | 2025 setembre S3 Ex 3 | A | ? | pendent | separada de `pro-25s-q3ab` (abans eren la mateixa pàgina) |
 | N4 | `ana-25s-q4a` | 2025 setembre S3 Ex 4A | A | ? | pendent |  |
-| N4 | `ana-26j-q1` | 2026 juny S1 Ex 1 | B | ? | pendent |  |
+| N4 | `ana-26j-q1` | 2026 juny S1 Ex 1 | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
 | N4 | `ana-26j-q4a` | 2026 juny S1 Ex 4A | B | ? | pendent |  |
-| N4 | `ana-26j2-q1` | 2026 juny S5 Ex 1 | B | ? | pendent |  |
-| N4 | `ana-26j2-q4a` | 2026 juny S5 Ex 4A | B | ? | pendent |  |
+| N4 | `ana-26j2-q1` | 2026 juny S5 Ex 1 | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
+| N4 | `ana-26j2-q4a` | 2026 juny S5 Ex 4A | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
 
 ## Probabilitat (8)
 
@@ -86,5 +86,5 @@ Seguiment de la revisió de les 62 pistes (`data/<id>-p.pdf`). Font de cada pist
 | P1 | `pro-25i-q3` | 2025 juny inc. S4 Ex 3 | A | ? | pendent |  |
 | P1 | `pro-25j-q3` | 2025 juny S1 Ex 3 | A | ? | pendent |  |
 | P1 | `pro-25s-q3ab` | 2025 setembre S3 Ex 3 | A | ? | pendent | separada d'`ana-25s-q3c` (abans eren la mateixa pàgina) |
-| P1 | `pro-26j-q3` | 2026 juny S1 Ex 3 | B | ? | pendent |  |
-| P1 | `pro-26j2-q3` | 2026 juny S5 Ex 3 | B | ? | pendent |  |
+| P1 | `pro-26j-q3` | 2026 juny S1 Ex 3 | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
+| P1 | `pro-26j2-q3` | 2026 juny S5 Ex 3 | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
