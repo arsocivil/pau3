@@ -2,7 +2,7 @@
 
 Web estàtica (`index.html` + `config.js`) amb 62 exercicis de PAU. Cada exercici `<id>` té tres PDF a `data/`: `-e` (enunciat), `-p` (pista), `-s` (solució).
 
-- `-e.pdf` i `-s.pdf` són retalls dels PDF oficials del Departament d'Universitats: **no es modifiquen**.
+- `-e.pdf` i `-s.pdf` són retalls dels PDF oficials del Departament d'Universitats: **el contingut no es modifica**. Si un retall és defectuós (li falta un tros o en té d'un altre exercici), es refà a partir de les pàgines oficials, sense alterar-les.
 - `-p.pdf` es genera des de `pistes/src/<id>.tex` amb `python3 pistes/build.py <id>`. No editeu mai el PDF directament.
 - La llista d'exercicis de la web és l'objecte `EXERS` d'`index.html`; ha de coincidir amb els fitxers de `data/`.
 
