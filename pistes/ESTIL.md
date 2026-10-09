@@ -1,6 +1,6 @@
 # Guia d'estil de les pistes
 
-Criteris per revisar i escriure les pistes (`pistes/src/<id>.tex`). Els punts marcats **PENDENT** els ha de decidir el David.
+Criteris per revisar i escriure les pistes (`pistes/src/<id>.tex`). Decisions aprovades pel David el 2026-10-09.
 
 ## 1. Principis
 
@@ -25,8 +25,8 @@ Criteris per revisar i escriure les pistes (`pistes/src/<id>.tex`). Els punts ma
 
 ## 4. Llengua
 
-- **Persona verbal — PENDENT.** Proposta: segona persona del singular («Calcula», «Fixa't»). Ara la majoria de pistes ja la fan servir, però algunes fan servir «nosaltres» («Podem prendre», «calculem»): `ana-23s-q4`, `ana-24i-q1`, `geo-25j-q4b`.
-- **Cometes — PENDENT.** Proposta: cometes baixes «…» (preferència de l'IEC). Ara n'hi ha de tres tipus: ``` ``…'' ``` (surten com “…”), `"…"` rectes (surten malament, com ”…”) i cap de baixes.
+- **Persona verbal:** segona persona del singular («Calcula», «Fixa't»). Algunes pistes encara fan servir «nosaltres» («Podem prendre», «calculem»): `ana-23s-q4`, `ana-24i-q1`, `geo-25j-q4b`.
+- **Cometes:** cometes baixes «…». Les ``` ``…'' ``` i les `"…"` rectes es canvien a «…» quan es revisa cada pista.
 - **Formes a evitar:** «anem a + infinitiu» per a futur (→ «obtindrem»), «donat que» (→ «atès que», «com que»), «en base a» (→ «a partir de»).
 - **Referències a apartats:** «l'apartat *a)*».
 
@@ -38,7 +38,7 @@ Criteris per revisar i escriure les pistes (`pistes/src/<id>.tex`). Els punts ma
 
 ## 6. Llargada
 
-- **PENDENT.** Proposta orientativa: de 2 a 6 línies per apartat. Si una pista necessita més espai, probablement està resolent l'exercici.
+- Orientativa: de 2 a 6 línies per apartat. Si una pista necessita més espai, probablement està resolent l'exercici.
 
 ## 7. Format de resposta del David a les propostes
 
