@@ -1,0 +1,25 @@
+% Pista geo-24j-q6 · Geometria
+% Procedència: PAU Catalunya 2024 · Convocatòria de juny · Sèrie 1 · Qüestió 6
+\documentclass[11pt,a4paper]{article}
+\usepackage{pista}
+\pistainfo{Catalunya 2024}{Convocatòria de juny}{Sèrie 1}
+
+\begin{document}
+
+\section*{\textcolor{blauPista}{Qüestió 6}}
+
+\noindent Considereu els punts $A = (1, 2, 3)$ i $B = (-3, -2, 3)$.
+
+\subsection*{\textit{a)} \normalfont Calculeu l'equació del pla $\pi$ que és perpendicular a la recta $AB$ i que passa pel punt mitjà entre $A$ i $B$. Justifiqueu que aquest pla està format, precisament, pels punts $P = (x, y, z)$ que estan a igual distància de $A$ que de $B$, és a dir, $d(P, A) = d(P, B)$. \hfill\textnormal{[1 punt]}}
+
+\pista{El vector normal de $\pi$ és, precisament, $\vec{AB}$: calcula'l, troba el punt mitjà entre $A$ i $B$, i escriu l'equació del pla en la forma $Ax + By + Cz + D = 0$. Per a la justificació, planteja l'equació $d(P, A) = d(P, B)$. Un moment, encara millor, planteja aquesta altra equació: $|\vec{PA}|^{2} = |\vec{PB}|^{2}$, i així pots evitar arrels quadrades. Desenvolupa i simplifica: veuràs com apareix exactament la mateixa equació del pla.}
+
+\subsection*{\textit{b)} \normalfont Calculeu les distàncies de $A$ i de $B$ al pla $\pi$ i comproveu que són iguals. És casualitat? Raoneu la resposta. \hfill\textnormal{[0,75 punts]}}
+
+\pista{Aplica la fórmula de la distància d'un punt a un pla als dos casos. I sobre si és casualitat: no ho és. Observa què et diu la construcció del pla $\pi$ (apartat a): és perpendicular al segment $AB$ i passa pel seu punt mitjà, de manera que $A$ i $B$ es projecten ortogonalment sobre el mateix punt del pla, que és equidistant d'ambdós.}
+
+\subsection*{\textit{c)} \normalfont Sigui $C = (-7, 6, 3)$. El triangle $ABC$ és isòsceles? Calculeu la seva àrea. \hfill\textnormal{[0,75 punts]}}
+
+\pista{Un triangle és isòsceles quan té dos costats iguals: calcula les longituds de $|\vec{AB}|$, $|\vec{AC}|$ i $|\vec{BC}|$ i compara-les. Per a l'àrea, en l'espai tridimensional la via més còmoda és la fórmula vectorial $\dfrac{1}{2}|\vec{AB} \times \vec{AC}|$ (la meitat del mòdul del producte vectorial de dos costats del triangle).}
+
+\end{document}

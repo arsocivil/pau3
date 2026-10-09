@@ -1,0 +1,25 @@
+% Pista ana-24s-q3 · Anàlisi
+% Procedència: PAU Catalunya 2024 · Convocatòria de setembre · Sèrie 3 · Qüestió 3
+\documentclass[11pt,a4paper]{article}
+\usepackage{pista}
+\pistainfo{Catalunya 2024}{Convocatòria de setembre}{Sèrie 3}
+
+\begin{document}
+
+\section*{\textcolor{blauPista}{Qüestió 3}}
+
+\noindent La classe de l'Èlia ha dissenyat un logotip per a pintar-lo a la paret de l'institut. La corba que passa pel punt $A$ és $y = f(x)$, amb $f(x) = x^{3} - 4x^{2} + 4x$, i la que passa pels punts $B$, $C = (3, 3)$ i $D$ és $y = g(x)$, amb $g(x) = -\left(\dfrac{x-1}{2}\right)^{2} + 4$.
+
+\subsection*{\textit{a)} \normalfont Calculeu les coordenades dels punts $A$, $B$ i $D$. \hfill\textnormal{[0,75 punts]}}
+
+\pista{Observa la figura amb cura: $A$ és un punt que pertany a l'eix d'abscisses, i correspon a una arrel de $f(x)$. Per tant, has de resoldre $f(x) = 0$. Fixa't que una de les seves arrels és $x=0$, i si factoritzes, les altres dues arrels les pots trobar aplicant la fórmula de segon grau. De les tres arrels que hauràs trobat, has de triar la que correspon a la posició d'$A$ a la figura. El punt $B$, sabem que pertany a l'eix d'ordenades. Per tant, substitueix $x = 0$ a $g(x)$. $D$ és sobre l'eix $OX$ i és arrel de $g(x)$ (resol $g(x) = 0$). Recorda que la teva resposta final ha de ser escriure els TRES punts, i que cada punt té dues coordenades.}
+
+\subsection*{\textit{b)} \normalfont Calculeu l'àrea de la zona puntejada. \hfill\textnormal{[1,25 punts]}}
+
+\pista{Mira la figura amb atenció: la zona puntejada està limitada per dalt per la corba $g(x)$ (entre $x = 0$ i $x = 3$, a partir del punt $C$ ja no és puntejada, sinó ratllada) i per baix per la corba $f(x)$ a la zona on $f(x)\geq 0$, i per l'eix $OX$ a la zona on $f(x) < 0$. Pots descompondre la zona puntejada en dues parts ben definides per intervals d'$x$ i calcular cada part com una integral definida. Una altra manera, sovint més neta, és calcular l'àrea puntejada per resta: àrea sota $g(x)$ entre els extrems oportuns, menys àrea sota $f(x)$ a la zona on $f(x) \geq 0$. Són dos camins alternatius, tots dos vàlids; tria el que et resulti més còmode.}
+
+\subsection*{\textit{c)} \normalfont Els alumnes volen pintar la part puntejada de color blau i la part ratllada de color vermell. Sabent que l'àrea total del logotip és $\dfrac{175}{12}\,\text{m}^{2}$, de quin color necessitaran més pintura? \hfill\textnormal{[0,5 punts]}}
+
+\pista{Aquí no cal calcular cap integral nova: l'àrea total del logotip és puntejada més ratllada. Tens l'àrea total i tens l'àrea puntejada (apartat b), de manera que pots obtenir l'àrea ratllada per resta. Compara les dues àrees i contesta quin color necessitarà més pintura. Recorda que cal justificar totes les respostes: per tant, no et pots limitar a dir "el color és aquest".}
+
+\end{document}
