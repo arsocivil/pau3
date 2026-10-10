@@ -519,19 +519,24 @@ function pdfPanel(id, tipus) {
 }
 
 async function initPdfViewer(vid, path) {
-  if (PDF_STATE[vid]) return;           // ja carregat
-  PDF_STATE[vid] = null;                // marca "en curs" per evitar doble crida
+  // L'estat va lligat al contenidor del visor: showExercise el torna a crear cada
+  // vegada, de manera que en reobrir un exercici el PDF es torna a carregar.
+  const container = document.getElementById(vid);
+  if (!container || container.dataset.pdf) return;   // ja carregat o carregant
+  container.dataset.pdf = 'carregant';
 
   try {
     const doc = await pdfjsLib.getDocument(path).promise;
+    if (!container.isConnected) return;               // ja s'ha canviat d'exercici
     PDF_STATE[vid] = { doc, page: 1, total: doc.numPages, rendering: false };
+    container.dataset.pdf = 'ok';
     await renderPdfPage(vid);
   } catch(e) {
-    const container = document.getElementById(vid);
-    if (container) {
+    if (container.isConnected) {
       container.querySelector('.pdf-canvas-wrap').innerHTML =
         `<div class="pdf-loading" style="color:#c95252">Error al carregar el PDF</div>`;
     }
+    delete container.dataset.pdf;                      // permet tornar-ho a provar
     delete PDF_STATE[vid];
   }
 }
