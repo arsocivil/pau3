@@ -10,6 +10,7 @@ on:
       - 'pistes/src/**'
       - 'pistes/build.py'
       - '.devcontainer/install-latex.sh'
+      - '.github/workflows/pistes.yml'
   workflow_dispatch:   # també es pot executar a mà: pestanya Actions → Compila les pistes → Run workflow
 
 permissions:
@@ -24,7 +25,7 @@ jobs:
   compila:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Instal·la TeX Live
         run: bash .devcontainer/install-latex.sh
