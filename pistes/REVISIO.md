@@ -48,14 +48,14 @@ Seguiment de la revisió de les 67 pistes (`data/<id>-p.pdf`). Font de cada pist
 
 | Lot | ID | Procedència | Font | Autor | Estat | Notes |
 |---|---|---|---|---|---|---|
-| N1 | `ana-23j-q1` | 2023 juny S1 Q1 | A | ? | pendent |  |
-| N1 | `ana-23j-q3` | 2023 juny S1 Q3 | A | ? | pendent |  |
-| N1 | `ana-23j-q5` | 2023 juny S1 Q5 | A | ? | pendent |  |
-| N1 | `ana-23j2-q1` | 2023 juny S5 Q1 | B | ? | pendent | abans una sola caixa de pistes; ara una per apartat |
-| N1 | `ana-23j2-q4` | 2023 juny S5 Q4 | B | ? | pendent | en reconstruir-la s'ha corregit «aíllar» → «aïllar»; abans una sola caixa de pistes; ara una per apartat |
-| N1 | `ana-23j2-q6` | 2023 juny S5 Q6 | B | ? | pendent | abans una sola caixa de pistes; ara una per apartat |
-| N1 | `ana-23s-q2` | 2023 setembre S2 Q2 | A | ? | pendent |  |
-| N1 | `ana-23s-q4` | 2023 setembre S2 Q4 | A | ? | pendent |  |
+| N1 | `ana-23j-q1` | 2023 juny S1 Q1 | A | ? | fet | «Cada condició de l'enunciat es tradueix en una equació» (sense la frase de to oral); cometes «» |
+| N1 | `ana-23j-q3` | 2023 juny S1 Q3 | A | ? | fet | a) ja no diu com es fixa la segona constant: pregunta què implica a $x=2$ que $f$ sigui derivable (text del David) |
+| N1 | `ana-23j-q5` | 2023 juny S1 Q5 | A | ? | fet | a) coma sobrera; b) ja no dona la longitud de tanca ($x+y$) i demana les dimensions i l'estalvi (text del David) |
+| N1 | `ana-23j2-q1` | 2023 juny S5 Q1 | B | ? | fet | abans una sola caixa de pistes; ara una per apartat; a) «en fer la resta… obtindràs un polinomi de segon grau, que serà senzill d'integrar» (text del David) |
+| N1 | `ana-23j2-q4` | 2023 juny S5 Q4 | B | ? | fet | en reconstruir-la s'ha corregit «aíllar» → «aïllar»; abans una sola caixa de pistes; ara una per apartat; enunciat: «. Sabem que», com a l'original (abans «, bé que»); ja no dona $P(x)$, només com expressar cada tram |
+| N1 | `ana-23j2-q6` | 2023 juny S5 Q6 | B | ? | fet | abans una sola caixa de pistes; ara una per apartat; a) derivada d'un quocient i, en resoldre $f'(-1)=0$, només cal igualar el numerador a zero (text del David); cometes «» |
+| N1 | `ana-23s-q2` | 2023 setembre S2 Q2 | A | ? | fet | b) sense «No et preocupis…»; c) catets i àrea $\frac12 c_1 c_2$ (text del David) i escriure que l'àrea no depèn de $k$ |
+| N1 | `ana-23s-q4` | 2023 setembre S2 Q4 | A | ? | fet | a) sense «nosaltres» («aquest teorema serveix…»); b) més curta, punts de tall entre les gràfiques (text del David); cometes «» |
 | N2 | `ana-23s-q6` | 2023 setembre S2 Q6 | A | ? | pendent |  |
 | N2 | `ana-24i-q1` | 2024 juny inc. S5 Q1 | A | ? | pendent |  |
 | N2 | `ana-24i-q3` | 2024 juny inc. S5 Q3 | A | ? | pendent |  |
