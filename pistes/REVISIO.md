@@ -63,13 +63,13 @@ Seguiment de la revisió de les 67 pistes (`data/<id>-p.pdf`). Font de cada pist
 | N2 | `ana-24j-q1` | 2024 juny S1 Q1 | A | ? | fet | b) el límit a $0^{+}$ no és indeterminat; a $+\infty$ sí (L'Hôpital) |
 | N2 | `ana-24j-q3` | 2024 juny S1 Q3 | A | ? | fet | a) tres solucions de $f(x)=5$; recta $PR$ amb text del David; b) corregit: s'integra entre $P$ i $Q$ (no entre dos punts de tall) i parèntesi tancat; cometes «» |
 | N2 | `ana-24j-q5` | 2024 juny S1 Q5 | A | ? | fet | sense canvis de contingut; tres comes sobreres; $6\,\text{m}^{3}$ |
-| N3 | `ana-24s-q1` | 2024 setembre S3 Q1 | A | ? | pendent |  |
-| N3 | `ana-24s-q3` | 2024 setembre S3 Q3 | A | ? | pendent | cometes rectes "…" |
-| N3 | `ana-24s-q5` | 2024 setembre S3 Q5 | A | ? | pendent | cometes rectes "…" |
-| N3 | `ana-25i-q1` | 2025 juny inc. S4 Ex 1 | A | ? | pendent |  |
-| N3 | `ana-25i-q4a` | 2025 juny inc. S4 Ex 4A | A | ? | pendent |  |
-| N3 | `ana-25j-q1` | 2025 juny S1 Ex 1 | A | ? | pendent |  |
-| N3 | `ana-25j-q4a` | 2025 juny S1 Ex 4A | A | ? | pendent |  |
+| N3 | `ana-24s-q1` | 2024 setembre S3 Q1 | A | ? | fet | a) sense l'alternativa de partir per la meitat; b) coeficients positius, extrems i nombre de talls |
+| N3 | `ana-24s-q3` | 2024 setembre S3 Q3 | A | ? | fet | enunciat com l'oficial («el logotip següent…:») i figura descrita a part, en cursiva; a) corregit: $x=0$ i una arrel doble, no «tres arrels» (text del David); $D$: dues solucions, triar per la figura (text del David, «eix d'abscisses»); b) corregit: una sola integral de $g-f$ ($f\ge0$ a $[0,3]$); c) parèntesi; cometes «» |
+| N3 | `ana-24s-q5` | 2024 setembre S3 Q5 | A | ? | fet | a) ja no dona $A(x)$ (text del David), sense la frase en majúscules; b) corregit: defineix $f$ i avisa que no és la $A'(x)$ (text del David), tangent en una línia a part; «aïlla $x$» |
+| N3 | `ana-25i-q1` | 2025 juny inc. S4 Ex 1 | A | ? | fet | b) $f'(x)=0$ no sempre és un extrem; pot ser un punt d'inflexió (text del David) |
+| N3 | `ana-25i-q4a` | 2025 juny inc. S4 Ex 4A | A | ? | fet | enunciat com l'oficial («…la figura següent:») amb $r$ i $h$ descrites a part; afegida la *Nota* oficial de la superfície de l'esfera; coma sobrera; $100\,\text{cm}^{3}$ |
+| N3 | `ana-25j-q1` | 2025 juny S1 Ex 1 | A | ? | fet | a) asímptota vertical; obliqua amb $m$ i $n$ (text del David) |
+| N3 | `ana-25j-q4a` | 2025 juny S1 Ex 4A | A | ? | fet | enunciat com l'oficial («…la figura següent:») i figura descrita a part; talls amb $y=9$ i l'eix d'abscisses (text del David); integrar respecte de $x$; com obtenir la regió superior |
 | N4 | `ana-25s-q1` | 2025 setembre S3 Ex 1 | A | ? | pendent |  |
 | N4 | `ana-25s-q3c` | 2025 setembre S3 Ex 3 | A | ? | pendent | separada de `pro-25s-q3ab` (abans eren la mateixa pàgina) |
 | N4 | `ana-25s-q4a` | 2025 setembre S3 Ex 4A | A | ? | pendent |  |
