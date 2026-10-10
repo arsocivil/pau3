@@ -21,10 +21,10 @@ on $k$ és un nombre real qualsevol.
 
 \subsection*{2.2. \normalfont Calculeu els valors de $k$ per als quals $NM$ és invertible. \hfill\textnormal{[0,75~punts]}}
 
-\pista{Ara $NM$ és una matriu $3 \times 3$: calcula el producte. Abans de llançar-te a calcular tot el determinant, fixa't bé en les columnes (o files) resultants: sovint, en aquest tipus de productes ($N \cdot M$, amb $M$ de com a màxim dues files independents), una columna es pot escriure com a combinació lineal de les altres, independentment del valor de $k$. Si ho detectes, ja saps que el determinant serà idènticament zero i que, per tant, $NM$ no serà mai invertible, sigui quin sigui $k$.}
+\pista{Ara $NM$ és una matriu $3 \times 3$: calcula el producte. Abans de desenvolupar el determinant, fixa't en les columnes: comprova si alguna és combinació lineal de les altres dues (els coeficients poden dependre de $k$). Si és així, què en dedueixes sobre el determinant i, per tant, sobre la invertibilitat de $NM$?}
 
 \subsection*{2.3. \normalfont Estudieu per a quins valors reals de $m$, $n$ i $k$ el sistema $M \begin{pmatrix} x \\ y \\ z \end{pmatrix} = \begin{pmatrix} m \\ n \end{pmatrix}$ és compatible indeterminat. \hfill\textnormal{[1~punt]}}
 
-\pista{Aquest sistema és, en realitat, el que representa la matriu $M$: dues equacions amb tres incògnites. Busca un menor $2 \times 2$ de $M$, format per dues de les seves columnes, que sigui no nul independentment del valor de $k$: això et garanteix que el rang de la matriu de coeficients és sempre 2. Com que la matriu ampliada només té, també, dues files, el seu rang mai no pot superar 2, de manera que sempre coincidirà amb el de $M$. Raona què implica tot això --tenint en compte que hi ha 3 incògnites-- sobre la compatibilitat i la indeterminació del sistema, per a qualssevol valors de $m$, $n$ i $k$.}
+\pista{Escriu les dues equacions del sistema. Obtindràs una matriu $M$ del sistema i una matriu ampliada $M^{'}$. Busca un menor d'ordre 2 de $M$ que no s'anul·li per a cap valor de $k$. Troba $\mathrm{rang}(M)$ i $\mathrm{rang}(M^{'})$ i decideix per a quins valors de $m$, $n$ i $k$ el sistema és compatible indeterminat.}
 
 \end{document}
