@@ -56,13 +56,13 @@ Seguiment de la revisió de les 67 pistes (`data/<id>-p.pdf`). Font de cada pist
 | N1 | `ana-23j2-q6` | 2023 juny S5 Q6 | B | ? | fet | abans una sola caixa de pistes; ara una per apartat; a) derivada d'un quocient i, en resoldre $f'(-1)=0$, només cal igualar el numerador a zero (text del David); cometes «» |
 | N1 | `ana-23s-q2` | 2023 setembre S2 Q2 | A | ? | fet | b) sense «No et preocupis…»; c) catets i àrea $\frac12 c_1 c_2$ (text del David) i escriure que l'àrea no depèn de $k$ |
 | N1 | `ana-23s-q4` | 2023 setembre S2 Q4 | A | ? | fet | a) sense «nosaltres» («aquest teorema serveix…»); b) més curta, punts de tall entre les gràfiques (text del David); cometes «» |
-| N2 | `ana-23s-q6` | 2023 setembre S2 Q6 | A | ? | pendent |  |
-| N2 | `ana-24i-q1` | 2024 juny inc. S5 Q1 | A | ? | pendent |  |
-| N2 | `ana-24i-q3` | 2024 juny inc. S5 Q3 | A | ? | pendent |  |
-| N2 | `ana-24i-q5` | 2024 juny inc. S5 Q5 | A | ? | pendent |  |
-| N2 | `ana-24j-q1` | 2024 juny S1 Q1 | A | ? | pendent |  |
-| N2 | `ana-24j-q3` | 2024 juny S1 Q3 | A | ? | pendent |  |
-| N2 | `ana-24j-q5` | 2024 juny S1 Q5 | A | ? | pendent |  |
+| N2 | `ana-23s-q6` | 2023 setembre S2 Q6 | A | ? | fet | enunciat com l'oficial («en la figura següent:») i descripció de la figura a part, en cursiva; a) sense «nosaltres» ni to oral; b) quedar-se amb la solució que té sentit; cometes «» |
+| N2 | `ana-24i-q1` | 2024 juny inc. S5 Q1 | A | ? | fet | a) sense l'alternativa de partir per la meitat; b) corregit: sí que es pot derivar (la pauta ho puntua) i ja no parla d'una $g$ no definida; extrems amb text del David; c) quantes vegades talla l'eix |
+| N2 | `ana-24i-q3` | 2024 juny inc. S5 Q3 | A | ? | fet | a) «la segona coordenada del punt de tangència» (text del David); b) escriure $f_1$ i $f_3$ sense oblidar el terme independent (text del David); c) sense «nosaltres», l'àrea no pot ser negativa; «dels punts»; cometes «» |
+| N2 | `ana-24i-q5` | 2024 juny inc. S5 Q5 | A | ? | fet | enunciat com l'oficial («tal com es mostra a la figura següent:») i, a part, en cursiva, que $x$ i $y$ són els radis; coma sobrera; cometes «»; $10\,\text{m}$ |
+| N2 | `ana-24j-q1` | 2024 juny S1 Q1 | A | ? | fet | b) el límit a $0^{+}$ no és indeterminat; a $+\infty$ sí (L'Hôpital) |
+| N2 | `ana-24j-q3` | 2024 juny S1 Q3 | A | ? | fet | a) tres solucions de $f(x)=5$; recta $PR$ amb text del David; b) corregit: s'integra entre $P$ i $Q$ (no entre dos punts de tall) i parèntesi tancat; cometes «» |
+| N2 | `ana-24j-q5` | 2024 juny S1 Q5 | A | ? | fet | sense canvis de contingut; tres comes sobreres; $6\,\text{m}^{3}$ |
 | N3 | `ana-24s-q1` | 2024 setembre S3 Q1 | A | ? | pendent |  |
 | N3 | `ana-24s-q3` | 2024 setembre S3 Q3 | A | ? | pendent | cometes rectes "…" |
 | N3 | `ana-24s-q5` | 2024 setembre S3 Q5 | A | ? | pendent | cometes rectes "…" |

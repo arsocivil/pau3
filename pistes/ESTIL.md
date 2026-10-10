@@ -25,7 +25,7 @@ Criteris per revisar i escriure les pistes (`pistes/src/<id>.tex`). Decisions ap
 
 ## 4. Llengua
 
-- **Persona verbal:** segona persona del singular («Calcula», «Fixa't»). Alguna pista encara fa servir «nosaltres» («Podem prendre», «calculem»): `ana-24i-q1`.
+- **Persona verbal:** segona persona del singular («Calcula», «Fixa't»).
 - **Cometes:** cometes baixes «…». Les ``` ``…'' ``` i les `"…"` rectes es canvien a «…» quan es revisa cada pista.
 - **Formes a evitar:** «anem a + infinitiu» per a futur (→ «obtindrem»), «donat que» (→ «atès que», «com que»), «en base a» (→ «a partir de»).
 - **Referències a apartats:** «l'apartat *a)*».
