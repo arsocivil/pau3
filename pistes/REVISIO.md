@@ -27,14 +27,14 @@ Seguiment de la revisió de les 67 pistes (`data/<id>-p.pdf`). Font de cada pist
 
 | Lot | ID | Procedència | Font | Autor | Estat | Notes |
 |---|---|---|---|---|---|---|
-| A1 | `alg-23j-q2` | 2023 juny S1 Q2 | A | ? | pendent |  |
-| A1 | `alg-23j-q4` | 2023 juny S1 Q4 | A | ? | pendent |  |
-| A1 | `alg-23j2-q2` | 2023 juny S5 Q2 | B | ? | pendent | abans una sola caixa de pistes; ara una per apartat |
-| A1 | `alg-23j2-q5` | 2023 juny S5 Q5 | B | ? | pendent | abans una sola caixa de pistes; ara una per apartat |
-| A1 | `alg-23s-q1` | 2023 setembre S2 Q1 | A | ? | pendent |  |
-| A1 | `alg-23s-q3` | 2023 setembre S2 Q3 | A | ? | pendent |  |
-| A1 | `alg-24i-q2` | 2024 juny inc. S5 Q2 | A | ? | pendent | línia de la pista 5 pt massa llarga |
-| A1 | `alg-24j-q2` | 2024 juny S1 Q2 | A | ? | pendent | cometes rectes "…" |
+| A1 | `alg-23j-q2` | 2023 juny S1 Q2 | A | ? | fet | b) substituir $C\cdot C$ per $(C\cdot D)\cdot C$ (text del David) |
+| A1 | `alg-23j-q4` | 2023 juny S1 Q4 | A | ? | fet | a) cas $\det(A)\neq0$; b) no dona el valor singular ni el tipus, resolució més curta, solució com a punt + vector; cometes «» |
+| A1 | `alg-23j2-q2` | 2023 juny S5 Q2 | B | ? | fet | abans una sola caixa de pistes; ara una per apartat; a) pas de Gauss corregit ($F_3\to F_3-F_2$) i ja no dona els casos; b) no dona el tipus; clau del sistema a la dreta |
+| A1 | `alg-23j2-q5` | 2023 juny S5 Q5 | B | ? | fet | abans una sola caixa de pistes; ara una per apartat; sense canvis (proposta rebutjada) |
+| A1 | `alg-23s-q1` | 2023 setembre S2 Q1 | A | ? | fet | a) error típic d'elevar cada element; b) $4A = A\cdot(4I)$ per treure factor comú; «dona» |
+| A1 | `alg-23s-q3` | 2023 setembre S2 Q3 | A | ? | fet | a) ordre i signes en reorganitzar, cas $\det(A)\neq0$; b) no dona el tipus i indica com resoldre |
+| A1 | `alg-24i-q2` | 2024 juny inc. S5 Q2 | A | ? | fet | a) «si i només si», mètode amb tots els passos; b) no dona $X=P^{-1}(2R-Q)$ (resolt també la línia massa llarga) |
+| A1 | `alg-24j-q2` | 2024 juny S1 Q2 | A | ? | proposta | a) sense to oral, cas general i $k=0$ sense donar la conclusió; b) més curta (text del David); c) idea de la pauta; cometes; queda 1 proposta per decidir a c) |
 | A2 | `alg-24s-q2` | 2024 setembre S3 Q2 | A | ? | pendent | cometes rectes "…" |
 | A2 | `alg-25i-q2` | 2025 juny inc. S4 Ex 2 | A | ? | pendent |  |
 | A2 | `alg-25i-q4b` | 2025 juny inc. S4 Ex 4B | A | ? | pendent |  |
