@@ -2,7 +2,7 @@
 """Compila les pistes LaTeX (pistes/src/<id>.tex) i genera data/<id>-p.pdf.
 
 Ús:
-  python3 pistes/build.py                      # compila les 62 pistes
+  python3 pistes/build.py                      # compila totes les pistes
   python3 pistes/build.py geo-25j-q4b ...      # compila només aquestes
   python3 pistes/build.py --png DIR geo-...    # a més, desa una imatge PNG de cada pista a DIR
   python3 pistes/build.py --zip FITXER.zip ... # crea un ZIP per a Overleaf (pista.sty + .tex)

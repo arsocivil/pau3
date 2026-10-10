@@ -12,21 +12,21 @@
 
 \subsection*{\textit{a)} \normalfont A continuació, treu de la bossa dues boles a l'atzar, una darrere l'altra i sense reemplaçament (és a dir, no retorna a la bossa la primera bola abans de treure la segona).}
 
-\noindent \textit{a.1)} Calculeu la probabilitat que la primera bola sigui una A o una E. \hfill \textnormal{[0,5 punts]}
+\noindent \textit{a.1)} Calculeu la probabilitat que la primera bola sigui una A o una E. \hfill \textnormal{[0,5~punts]}
 
 \pista{Els esdeveniments ``sortir A'' i ``sortir E'' són disjunts (no poden passar alhora), per tant la probabilitat de la unió és la suma de probabilitats. Compta, primer, quantes boles hi ha de cada tipus (compte: alguna lletra es repeteix).}
 
-\noindent \textit{a.2)} Calculeu la probabilitat que les dues boles siguin diferents. \hfill \textnormal{[0,75 punts]}
+\noindent \textit{a.2)} Calculeu la probabilitat que les dues boles siguin diferents. \hfill \textnormal{[0,75~punts]}
 
 \pista{Molt sovint, quan et demanen la probabilitat de ``les dues diferents'', és més còmode calcular el complementari: la probabilitat de ``les dues iguals''. Identifica quines lletres apareixen repetides (només n'hi ha dues que es repeteixen) i suma les probabilitats de cada parella coincident, tenint en compte que és sense reemplaçament. Per obtenir la resposta final $p$, recorda que tu has estat buscant la probabilitat $q$ de l'esdeveniment contrari. Per tant, hauràs de calcular $p=1-q$.}
 
 \subsection*{\textit{b)} \normalfont L'Andreu torna a posar totes les boles a la bossa i en treu cinc a l'atzar, una darrere l'altra, però ara amb reemplaçament (és a dir, ara sí que retorna a la bossa cada bola extreta abans d'agafar la següent).}
 
-\noindent \textit{b.1)} Calculeu la probabilitat que no hagi tret cap A. \hfill \textnormal{[0,5 punts]}
+\noindent \textit{b.1)} Calculeu la probabilitat que no hagi tret cap A. \hfill \textnormal{[0,5~punts]}
 
 \pista{Amb reemplaçament, les cinc extraccions són independents. Per tant, la probabilitat que cap de les cinc extraccions sigui A és el producte de les cinc probabilitats individuals (que són totes iguals entre elles).}
 
-\noindent \textit{b.2)} Calculeu la probabilitat que hagi tret almenys dues A. \hfill \textnormal{[0,75 punts]}
+\noindent \textit{b.2)} Calculeu la probabilitat que hagi tret almenys dues A. \hfill \textnormal{[0,75~punts]}
 
 \pista{Aquí tens una variable binomial $X \sim B(5, p)$, on $p$ és la probabilitat que una extracció sigui A. L'esdeveniment ``almenys dues A'' és el complementari de ``cap A o exactament una A'': calcula $P(X = 0)$ i $P(X = 1)$, suma'ls. Hauràs obtingut una probabilitat $q$, que no és la que et demanen, sinó que tu has de resposta la probabilitat de l'esdeveniment contrari. Per tant, finalitzes amb l'habitual operació: $p=1-q$. Així arribes al resultat amb menys feina que si haguessis calculat directament: $P(X=2) + P(X=3) + P(X=4) + P(X=5)$.}
 
