@@ -11,8 +11,8 @@ Seguiment de la revisió de les 67 pistes (`data/<id>-p.pdf`). Font de cada pist
 
 | Lot | ID | Procedència | Font | Autor | Estat | Notes |
 |---|---|---|---|---|---|---|
-| G1 | `geo-23j-q6` | 2023 juny S1 Q6 | A | ? | pendent |  |
-| G1 | `geo-23j2-q3` | 2023 juny S5 Q3 | B | ? | pendent | abans una sola caixa de pistes; ara una per apartat |
+| G1 | `geo-23j-q6` | 2023 juny S1 Q6 | A | ? | fet | a) frase de $D$ més clara; b) «està continguda»; c) mètode de la pauta (tallar $r$ amb $\pi_3$) i parèntesi tancat; «dona» |
+| G1 | `geo-23j2-q3` | 2023 juny S5 Q3 | B | ? | proposta | abans una sola caixa de pistes; ara una per apartat; a) avís dels signes de $r$ (text del David); queden 2 propostes per decidir |
 | G1 | `geo-23s-q5` | 2023 setembre S2 Q5 | A | ? | pendent |  |
 | G1 | `geo-24i-q6` | 2024 juny inc. S5 Q6 | A | ? | pendent |  |
 | G1 | `geo-24j-q6` | 2024 juny S1 Q6 | A | ? | pendent |  |
