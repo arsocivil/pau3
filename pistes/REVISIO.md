@@ -35,14 +35,14 @@ Seguiment de la revisió de les 67 pistes (`data/<id>-p.pdf`). Font de cada pist
 | A1 | `alg-23s-q3` | 2023 setembre S2 Q3 | A | ? | fet | a) ordre i signes en reorganitzar, cas $\det(A)\neq0$; b) no dona el tipus i indica com resoldre |
 | A1 | `alg-24i-q2` | 2024 juny inc. S5 Q2 | A | ? | fet | a) «si i només si», mètode amb tots els passos; b) no dona $X=P^{-1}(2R-Q)$ (resolt també la línia massa llarga) |
 | A1 | `alg-24j-q2` | 2024 juny S1 Q2 | A | ? | fet | a) sense to oral, cas general i $k=0$ sense donar la conclusió; b) més curta (text del David); c) idea de la pauta (relació de la tercera equació amb les altres); cometes |
-| A2 | `alg-24s-q2` | 2024 setembre S3 Q2 | A | ? | pendent | cometes rectes "…" |
-| A2 | `alg-25i-q2` | 2025 juny inc. S4 Ex 2 | A | ? | pendent |  |
-| A2 | `alg-25i-q4b` | 2025 juny inc. S4 Ex 4B | A | ? | pendent |  |
-| A2 | `alg-25j-q2` | 2025 juny S1 Ex 2 | A | ? | pendent |  |
-| A2 | `alg-25s-q2` | 2025 setembre S3 Ex 2 | A | ? | pendent |  |
-| A2 | `alg-26j-q2` | 2026 juny S1 Ex 2 | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
-| A2 | `alg-26j2-q2` | 2026 juny S5 Ex 2 | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
-| A2 | `alg-26s-q2` | 2026 setembre S2 Ex 2 | IA | IA | pendent | pista nova (setembre 2026) |
+| A2 | `alg-24s-q2` | 2024 setembre S3 Q2 | A | ? | fet | a) cas $\det(A)\neq0$; b) no dona el tipus (text del David); c) sense to oral ni el tipus; cometes, parèntesi i «un segon pas» |
+| A2 | `alg-25i-q2` | 2025 juny inc. S4 Ex 2 | A | ? | fet | a) cas $\det(A)\neq0$; b) llista completa de posicions relatives (faltava «dos paral·lels tallats per un tercer») i final del David |
+| A2 | `alg-25i-q4b` | 2025 juny inc. S4 Ex 4B | A | ? | fet | b) «si i només si»; c) igualar element per element i complir totes les equacions (text del David); «tant» |
+| A2 | `alg-25j-q2` | 2025 juny S1 Ex 2 | A | ? | fet | a) cas $\det(A)\neq0$; b) més curta, sense repassar els tres casos; c) calcular els punts i quants n'hi ha (text del David) |
+| A2 | `alg-25s-q2` | 2025 setembre S3 Ex 2 | A | ? | fet | a) cas $\det(A)\neq0$; b) no dona el tipus i diu com resoldre; c) $z$ no pot ser la variable lliure |
+| A2 | `alg-26j-q2` | 2026 juny S1 Ex 2 | B | ? | fet | apartats N.1, N.2… (numeració oficial); 2.1 cas $\det(A)\neq0$; 2.2 no dona les interpretacions; 2.3 no dona el raonament i avisa que no totes les incògnites serveixen; $A^{'}$ |
+| A2 | `alg-26j2-q2` | 2026 juny S5 Ex 2 | B | ? | fet | apartats N.1, N.2… (numeració oficial); 2.2 no dona que el determinant és sempre 0; 2.3 en preguntes (text del David) |
+| A2 | `alg-26s-q2` | 2026 setembre S2 Ex 2 | IA | IA | fet | pista nova (setembre 2026); 2.2 corregit el cas $k=1$ ($x$ no pot ser el paràmetre); $A^{'}$ en lloc d'$A^{*}$ |
 
 ## Anàlisi (31)
 
