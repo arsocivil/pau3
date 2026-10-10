@@ -11,17 +11,17 @@ Seguiment de la revisió de les 67 pistes (`data/<id>-p.pdf`). Font de cada pist
 
 | Lot | ID | Procedència | Font | Autor | Estat | Notes |
 |---|---|---|---|---|---|---|
-| G1 | `geo-23j-q6` | 2023 juny S1 Q6 | A | ? | pendent |  |
-| G1 | `geo-23j2-q3` | 2023 juny S5 Q3 | B | ? | pendent | abans una sola caixa de pistes; ara una per apartat |
-| G1 | `geo-23s-q5` | 2023 setembre S2 Q5 | A | ? | pendent |  |
-| G1 | `geo-24i-q6` | 2024 juny inc. S5 Q6 | A | ? | pendent |  |
-| G1 | `geo-24j-q6` | 2024 juny S1 Q6 | A | ? | pendent |  |
-| G1 | `geo-24s-q6` | 2024 setembre S3 Q6 | A | ? | pendent |  |
-| G1 | `geo-25j-q4b` | 2025 juny S1 Ex 4B | A | ? | pendent | 🔴 a) $\vec n=(1,0\,1)$ hauria de ser $(1,1,0)$; sobra un parèntesi a `z-2))`; «anem a obtenir» |
-| G1 | `geo-25s-q4b` | 2025 setembre S3 Ex 4B | A | ? | pendent |  |
-| G1 | `geo-26j-q4b` | 2026 juny S1 Ex 4B | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
-| G1 | `geo-26j2-q4b` | 2026 juny S5 Ex 4B | B | ? | pendent | apartats N.1, N.2… (numeració oficial) |
-| G1 | `geo-26s-q4b` | 2026 setembre S2 Ex 4B | IA | IA | pendent | pista nova (setembre 2026) |
+| G1 | `geo-23j-q6` | 2023 juny S1 Q6 | A | ? | fet | a) frase de $D$ més clara; b) «està continguda»; c) mètode de la pauta (tallar $r$ amb $\pi_3$, i per què equival a $\vec{PQ}\cdot\vec{v}_r=0$) i parèntesi tancat; «dona» |
+| G1 | `geo-23j2-q3` | 2023 juny S5 Q3 | B | ? | fet | abans una sola caixa de pistes; ara una per apartat; a) avís dels signes de $r$ (text del David) i ja no dona la conclusió («Comprova si… mira si totes les igualtats es poden complir alhora») |
+| G1 | `geo-23s-q5` | 2023 setembre S2 Q5 | A | ? | fet | a) «Comença», «imposa que…» i el parèntesi dels dos productes escalars (text del David); «dona» |
+| G1 | `geo-24i-q6` | 2024 juny inc. S5 Q6 | A | ? | fet | a) sense to oral, frase del determinant més clara; b) paràmetre de $r$ → $\lambda$, final amb text del David (substituir el valor obtingut); «perpendicular comuna» |
+| G1 | `geo-24j-q6` | 2024 juny S1 Q6 | A | ? | fet | a) $ax+by+cz+d=0$ i $d(P,A)^2=d(P,B)^2$ (text del David); b) ja no dona la resposta de «És casualitat?»; c) idea de la pauta ($C\in\pi$) |
+| G1 | `geo-24s-q6` | 2024 setembre S3 Q6 | A | ? | fet | c) «$P$ queda just al mig entre $\pi$ i $\pi'$» (abans deia que $\pi'$ era a l'altre costat de $\pi$) |
+| G1 | `geo-25j-q4b` | 2025 juny S1 Ex 4B | A | ? | fet | a) reescrita en «tu»; corregits $\vec n=(1,1,0)$ i el parèntesi de més a la columna $(x-1,y+1,z-2)$ |
+| G1 | `geo-25s-q4b` | 2025 setembre S3 Ex 4B | A | ? | fet | a) racionalitzar; b) sense «Sabem que… doncs» i justificació de la distància; c) com es calcula la distància entre plans |
+| G1 | `geo-26j-q4b` | 2026 juny S1 Ex 4B | B | ? | fet | apartats N.1, N.2… (numeració oficial); 4.3: afegida la fórmula del volum a l'enunciat |
+| G1 | `geo-26j2-q4b` | 2026 juny S5 Ex 4B | B | ? | fet | apartats N.1, N.2… (numeració oficial); enunciat complet (irregularitats, unitats en cm); 4.3: comprovar que el punt és més enllà de $B$; «xoc» |
+| G1 | `geo-26s-q4b` | 2026 setembre S2 Ex 4B | IA | IA | fet | pista nova (setembre 2026); «d'$A$»; 4.2: projecció ortogonal, comprovació del paral·lelisme opcional, 6 línies |
 
 ## Àlgebra (16)
 
